@@ -25,5 +25,5 @@ https://your-azure-search-service-name.search.windows.net/indexes/newindex/docs?
 
 ```http
 Content-Type : application/json
-api-key : <your-azure-search-key>
+api-key : your-azure-search-key
 ```
