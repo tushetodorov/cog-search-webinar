@@ -29,6 +29,6 @@ api-key : your-azure-search-key
     { "connectionString" :
       "your-connection-string-here"
     },  
-    "container" : { "name" : "dataset" }
+    "container" : { "name" : "your-container-name-here" }
 }  
 ```
