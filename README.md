@@ -1,6 +1,8 @@
-# Cognitive Search Workshop - Materials
+# Cognitive Search Workshop - Webinar Materials
 
 Materials of the Cognitive Search Workshop Webinar, presented by Luis Cabrera (Azure Cognitive Search PMM) and Rodrigo Souza (Data Scientist from the LearnAI Team).
+
+Here are json files for all of the labs of the training.
 
 ## Aditional LearnAI Links
 
