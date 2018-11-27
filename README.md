@@ -7,6 +7,14 @@ Here are json files for the API CALLS of the training. Don't forget to:
 1. Edit the URLS with your Azure Search service name. You need to replace **your-azure-search-service-name** with the name you used
 1. Use your Azure Search key. You need to replace **your-azure-search-key** with your key
 
+## Dataset
+
+The dataset of the webinar is here: http://aka.ms/cog-search-dataset .
+
+## Short URL for this page
+
+The short URL for this page is: http://aka.ms/cog-search-webinar
+
 ## Aditional LearnAI Links
 
 + LearnAI Team - Portal - http://aka.ms/LearnAI-portal
