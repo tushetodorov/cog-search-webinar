@@ -27,7 +27,7 @@ The short URL for this page is: http://aka.ms/cog-search-webinar
 1. [Azure Function code and instructions](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/02-azure-functions-code.md)
 1. [Call the Translator API](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/01-translator-api-call.md)
 1. [Call Azure Functions Locally](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/02-azure-function-local-test.md)
-1. [Call Azure Functions on Azure(https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/04-azure-function-server-test.md)
+1. [Call Azure Functions on Azure](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/04-azure-function-server-test.md)
 1. [Create a Data Source](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/05-create-data-source.md)
 1. [Create a Skillset](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/06-create-skillset.md)
 1. [Create an Index](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/07-create-index.md)
