@@ -15,6 +15,16 @@ The dataset of the webinar is here: http://aka.ms/cog-search-dataset .
 
 The short URL for this page is: http://aka.ms/cog-search-webinar
 
+## Labs
+1. [Create a Data Source](https://github.com/Rodrigossz/cog-search-webinar/blob/master/01-create-data-source.md)
+1. [Create a Skillset](https://github.com/Rodrigossz/cog-search-webinar/blob/master/02-create-skillset.md)
+1. [Create an Index](https://github.com/Rodrigossz/cog-search-webinar/blob/master/03-create-index.md)
+1. [Create an Indexer](https://github.com/Rodrigossz/cog-search-webinar/blob/master/04-create-indexer.md)
+1. [Check Indexer Status](https://github.com/Rodrigossz/cog-search-webinar/blob/master/05-check-indexer-status.md)
+1. [Check Index Fields](https://github.com/Rodrigossz/cog-search-webinar/blob/master/06-check-index-fields.md)
+1. [Queries](https://github.com/Rodrigossz/cog-search-webinar/blob/master/07-queries.md)
+
+
 ## Aditional LearnAI Links
 
 + LearnAI Team - Portal - http://aka.ms/LearnAI-portal
