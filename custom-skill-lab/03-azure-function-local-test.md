@@ -1,18 +1,18 @@
 # Calling Azure Functions locally
 
-#TYPE
+## TYPE
 
 ```http
 POST
 ```
 
-#URL
+## URL
 
 ```http
 http://localhost:7071/api/Translate
 ```
 
-#Body
+## Body
 
 ```json
 {
