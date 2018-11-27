@@ -24,7 +24,7 @@ The short URL for this page is: http://aka.ms/cog-search-webinar
 
 ## Custom Skill Lab
 1. [Dataset](https://github.com/Rodrigossz/cog-search-webinar/tree/master/custom-skill-lab/dataset)
-1. [Azure Function code and instructions(https://docs.microsoft.com/en-us/azure/search/cognitive-search-create-custom-skill-example)
+1. [Azure Function code and instructions](https://docs.microsoft.com/en-us/azure/search/cognitive-search-create-custom-skill-example)
 1. [Call the Translator API](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/01-translator-api-call.md)
 1. [Call Azure Functions Locally](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/02-azure-function-local-test.md)
 1. [Create a Data Source](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/01-create-data-source.md)
