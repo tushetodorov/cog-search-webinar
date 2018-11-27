@@ -16,7 +16,7 @@ https://your-azure-search-service-name.search.windows.net/skillsets/newskillset?
 
 ```http
 Content-Type : application/json
-api-key : <your-azure-search-key>
+api-key : your-azure-search-key
 ```
 
 ## Body
