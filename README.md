@@ -7,23 +7,30 @@ Here are json files for the API CALLS of the training. Don't forget to:
 1. Edit the URLS with your Azure Search service name. You need to replace **your-azure-search-service-name** with the name you used
 1. Use your Azure Search key. You need to replace **your-azure-search-key** with your key
 
-## Dataset
-
-The dataset of the webinar is here: http://aka.ms/cog-search-dataset .
-
 ## Short URL for this page
 
 The short URL for this page is: http://aka.ms/cog-search-webinar
 
-## Labs
-1. [Create a Data Source](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/01-create-data-source.md)
-1. [Create a Skillset](https://github.com/Rodrigossz/cog-search-webinar/blob/master/02-create-skillset.md)
-1. [Create an Index](https://github.com/Rodrigossz/cog-search-webinar/blob/master/03-create-index.md)
-1. [Create an Indexer](https://github.com/Rodrigossz/cog-search-webinar/blob/master/04-create-indexer.md)
-1. [Check Indexer Status](https://github.com/Rodrigossz/cog-search-webinar/blob/master/05-check-indexer-status.md)
-1. [Check Index Fields](https://github.com/Rodrigossz/cog-search-webinar/blob/master/06-check-index-fields.md)
-1. [Queries](https://github.com/Rodrigossz/cog-search-webinar/blob/master/07-queries.md)
+## Built-In Skills Lab
 
+1. Dataset: http://aka.ms/cog-search-dataset 
+1. [Create a Data Source](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/01-create-data-source.md)
+1. [Create a Skillset](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/02-create-skillset.md)
+1. [Create an Index](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/03-create-index.md)
+1. [Create an Indexer](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/04-create-indexer.md)
+1. [Check Indexer Status](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/05-check-indexer-status.md)
+1. [Check Index Fields](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/06-check-index-fields.md)
+1. [Queries](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/07-queries.md)
+
+## Custom Skill Lab
+1. Dataset: http://aka.ms/cog-search-dataset 
+1. [Create a Data Source](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/01-create-data-source.md)
+1. [Create a Skillset](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/02-create-skillset.md)
+1. [Create an Index](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/03-create-index.md)
+1. [Create an Indexer](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/04-create-indexer.md)
+1. [Check Indexer Status](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/05-check-indexer-status.md)
+1. [Check Index Fields](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/06-check-index-fields.md)
+1. [Queries](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/07-queries.md)
 
 ## Aditional LearnAI Links
 
