@@ -27,7 +27,7 @@ api-key : your-azure-search-key
     "type" : "azureblob",
     "credentials" :
     { "connectionString" :
-      "DefaultEndpointsProtocol=https;AccountName=mystorageaccountrod;AccountKey=z/VnjtyHpVwsrwLfGw9ADPmGIP9bk7EW6yp3ozVwu+XOjBbD41CrUuVpQvoKYHYdI0uljDXNGLTSSV/VUID4PA==;EndpointSuffix=core.windows.net"
+      "your-connection-string-here"
     },  
     "container" : { "name" : "dataset" }
 }  
