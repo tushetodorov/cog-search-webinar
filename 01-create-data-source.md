@@ -6,6 +6,12 @@
 POST
 ```
 
+## URL
+
+```http
+https://your-azure-search-service-name.search.windows.net/datasources?api-version=2017-11-11-Preview
+```
+
 ## Headers
 
 ```http
