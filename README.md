@@ -23,7 +23,7 @@ The short URL for this page is: http://aka.ms/cog-search-webinar
 1. [Queries](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/07-queries.md)
 
 ## Custom Skill Lab
-1. Dataset: http://aka.ms/cog-search-dataset 
+1. [Dataset](https://github.com/Rodrigossz/cog-search-webinar/tree/master/custom-skill-lab/dataset)
 1. [Create a Data Source](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/01-create-data-source.md)
 1. [Create a Skillset](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/02-create-skillset.md)
 1. [Create an Index](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/03-create-index.md)
