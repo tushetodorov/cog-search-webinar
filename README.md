@@ -24,16 +24,15 @@ The short URL for this page is: http://aka.ms/cog-search-webinar
 
 ## Custom Skill Lab
 1. [Dataset](https://github.com/Rodrigossz/cog-search-webinar/tree/master/custom-skill-lab/dataset)
-1. [Azure Function code and instructions](https://docs.microsoft.com/en-us/azure/search/cognitive-search-create-custom-skill-example)
+1. [Azure Function code and instructions](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/02-azure-functions-code.md)
 1. [Call the Translator API](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/01-translator-api-call.md)
 1. [Call Azure Functions Locally](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/02-azure-function-local-test.md)
-1. [Create a Data Source](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/01-create-data-source.md)
-1. [Create a Skillset](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/02-create-skillset.md)
-1. [Create an Index](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/03-create-index.md)
-1. [Create an Indexer](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/04-create-indexer.md)
-1. [Check Indexer Status](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/05-check-indexer-status.md)
-1. [Check Index Fields](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/06-check-index-fields.md)
-1. [Queries](https://github.com/Rodrigossz/cog-search-webinar/blob/master/built-in-lab/07-queries.md)
+1. [Call Azure Functions on Azure(https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/04-azure-function-server-test.md)
+1. [Create a Data Source](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/05-create-data-source.md)
+1. [Create a Skillset](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/06-create-skillset.md)
+1. [Create an Index](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/07-create-index.md)
+1. [Create an Indexer](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/08-create-indexer.md)
+1. [Queries](https://github.com/Rodrigossz/cog-search-webinar/blob/master/custom-skill-lab/09-queries.md)
 
 ## Aditional LearnAI Links
 
